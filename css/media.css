@@ -1,0 +1,705 @@
+/* Large devices  */
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+  /* banar part  */
+
+  .banar_images picture img {
+    max-height: 372px;
+  }
+
+  /* banar part  */
+
+
+  /* footer part  */
+
+  .footer_addtress_item h5 {
+    padding-right: 102px;
+  }
+
+  /* footer part  */
+
+  /* video part  */
+
+  .video_part h2 {
+    font-size: 18px;
+  }
+/* video part  */
+
+
+
+  /* portfolio  */
+
+
+  .portfolio_text h3 {
+    padding: 15px 0 20px;
+    font-size: 10px;
+    color: #060629;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    text-transform: capitalize;
+  }
+
+  /* portfolio  */
+
+  /* animation  */
+  .bubble_animaton {
+    display: none;
+
+  }
+
+  /* animation  */
+
+
+}
+
+/* large device end  */
+
+
+
+/* ============================================================================= */
+
+/* Medium devices */
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+  /* header part  */
+  .fa,
+  .fa-brands,
+  .fa-classic,
+  .fa-regular,
+  .fa-sharp,
+  .fa-solid,
+  .fab,
+  .far,
+  .fas {
+
+    color: #fff;
+    font-size: 30px;
+  }
+
+  .navbar-toggler {
+    border: none;
+
+  }
+
+
+
+  .nav-link {
+    margin-left: 50px;
+  }
+
+  .navbar {
+    background: linear-gradient(155deg, rgba(0, 0, 100), 45%, rgba(200, 0, 100));
+  }
+
+  /* header part end  */
+
+  /* banar part start  */
+
+
+  .banar_text_item p {
+    padding-top: 10px;
+    line-height: 15px;
+    font-size: 15px;
+  }
+
+  .banar_overly {
+
+    padding: 90px 0 0;
+
+  }
+
+  .banar_text_item h1 {
+    font-size: 34px;
+    line-height: 41px;
+  }
+
+  .banar_button_part {
+    text-align: center;
+  }
+
+  .banar_images picture img {
+    margin-top: 20px;
+    max-height: 423px;
+  }
+
+  /* banar part end */
+
+
+
+  /* SLIDER PART  */
+  .card_text_part h3 {
+
+    font-size: 15PX !important;
+
+  }
+
+  /* SLIDER PART  */
+
+/* pricing part start  */
+#pricing_part {
+  padding: 30px 40px;
+}
+
+
+.pricing_card h3 {
+
+  padding: 10px 0;
+}
+
+.pricing_card h2 {
+  margin-bottom: 6px;
+  font-size: 50px;
+}
+
+.pricing_card p {
+  padding-bottom: 0px;
+  font-size: 20px;
+
+}
+
+.pricing_btn button {
+  margin-top: 10px;
+  margin-right: 0px;
+}
+
+.pricing_padd {
+  padding-bottom: 20px;
+}
+
+
+
+
+
+
+
+  /* contact part start  */
+
+
+
+
+  #form1>input:first-child {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  #form1>input:nth-child(2) {
+    width: 100%;
+  }
+
+  .input_form_part {
+    margin-top: 20px;
+  }
+
+  /* contact part end */
+
+  .video_part h2 {
+    font-size: 18px;
+  }
+
+  /* video part  */
+
+  /* fortfolio part start */
+  .person_part {
+    margin-bottom: 15px;
+  }
+
+  .offset_part {
+    margin-left: 0 !important;
+  }
+
+  /* fortfolio part  end*/
+  /* footer part start  */
+  .footer_addtress_item h5 {
+    padding-right: 116px;
+  }
+
+  .footer-ren {
+    margin-top: 25px;
+  }
+
+
+  .footer_tex_part {
+    text-align: center;
+
+  }
+
+  .footer_tex_part p {
+    padding: 20px 0px 20px 0;
+
+  }
+
+  .footer_item_icon {
+    text-align: center;
+  }
+
+  .footer_addtress_item h5 {
+    padding-right: 0px;
+    margin-bottom: 10px;
+  }
+
+  .adddre {
+    margin-top: 20px;
+    color: red !important;
+  }
+
+  .quick {
+    color: red !important;
+  }
+
+
+
+  /* footer part end */
+  .bubble_animaton {
+    display: none;
+
+  }
+
+}
+
+/* medium device end  */
+
+/* ================================================================================== */
+/* Small devices */
+/* small device start  */
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+  /* header part  */
+
+  .fa,
+  .fa-brands,
+  .fa-classic,
+  .fa-regular,
+  .fa-sharp,
+  .fa-solid,
+  .fab,
+  .far,
+  .fas {
+
+    color: #fff;
+    font-size: 30px;
+  }
+
+  .navbar-toggler {
+    border: none;
+
+  }
+
+
+
+  .nav-link {
+    margin-left: 50px;
+  }
+
+  .navbar {
+    background: linear-gradient(155deg, rgba(0, 0, 100), 45%, rgba(200, 0, 100));
+  }
+
+  /* header part end  */
+
+  /* banar part start  */
+
+
+  .banar_text_item p {
+    padding-top: 10px;
+    line-height: 15px;
+    font-size: 15px;
+  }
+
+  .banar_overly {
+
+    padding: 90px 0 0;
+
+  }
+
+  .banar_text_item h1 {
+    font-size: 34px;
+    line-height: 41px;
+  }
+
+  .banar_button_part {
+    text-align: center;
+  }
+
+  .banar_images picture img {
+    margin-top: 20px;
+    max-height: 423px;
+  }
+
+
+  /* banar part end */
+/* pricing part start  */
+#pricing_part {
+  padding: 30px 40px;
+}
+
+
+.pricing_card h3 {
+
+  padding: 10px 0;
+}
+
+.pricing_card h2 {
+  margin-bottom: 6px;
+}
+
+.pricing_card p {
+  padding-bottom: 0px;
+
+}
+
+.pricing_btn button {
+  margin-top: 10px;
+  margin-right: 0px;
+}
+
+.pricing_padd {
+  padding-bottom: 10px;
+}
+
+
+
+
+  
+
+  /* contact part start  */
+
+
+
+
+
+  #form1>input:first-child {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  #form1>input:nth-child(2) {
+    width: 100%;
+  }
+
+  .input_form_part {
+    margin-top: 20px;
+  }
+
+  /* contact part end */
+  /* video part  */
+  .video_part h2 {
+    font-size: 18px;
+  }
+
+  /* video part  */
+  /* fortfolio part start */
+  .person_part {
+    margin-bottom: 15px;
+  }
+
+  .offset_part {
+    margin-left: 0 !important;
+  }
+
+  /* fortfolio part  end*/
+
+
+
+  /* footer part start  */
+  .footer_addtress_item h5 {
+    padding-right: 116px;
+  }
+
+  .footer-ren {
+    margin-top: 25px;
+  }
+
+
+  .footer_tex_part {
+    text-align: center;
+
+  }
+
+  .footer_tex_part p {
+    padding: 20px 0px 20px 0;
+
+  }
+
+  .footer_item_icon {
+    text-align: center;
+  }
+
+  .footer_addtress_item h5 {
+    padding-right: 0px;
+    margin-bottom: 10px;
+  }
+
+  .adddre {
+    margin-top: 20px;
+    color: red !important;
+  }
+
+  .quick {
+    color: red !important;
+  }
+
+
+
+  /* footer part end */
+  .bubble_animaton {
+    display: none;
+
+  }
+
+}
+
+/* small device end  */
+
+
+
+
+
+
+
+
+/* ================================================================================ */
+
+
+/* Extra small devices  */
+/* start  */
+@media (min-width:320px) and (max-width: 575.98px) {
+
+
+
+  /* header part  */
+  .fa,
+  .fa-brands,
+  .fa-classic,
+  .fa-regular,
+  .fa-sharp,
+  .fa-solid,
+  .fab,
+  .far,
+  .fas {
+
+    color: #fff;
+    font-size: 30px;
+  }
+
+  .navbar-toggler {
+    border: none;
+
+  }
+
+
+  .nav-link {
+    margin-left: 50px;
+  }
+
+  .navbar {
+    background: linear-gradient(155deg, rgba(0, 0, 100), 45%, rgba(200, 0, 100));
+  }
+
+
+  .navbar-expand-lg .navbar-nav .nav-link::after {
+  
+    height: 0;
+    width: 2px;
+    background: #fff;
+    content: "";
+    right: -5px;
+    transition: .5s;
+    position: relative;
+
+}
+  /* header part end  */
+
+  /* banar part start  */
+
+
+  .banar_text_item p {
+    padding-top: 10px;
+    line-height: 15px;
+    font-size: 15px;
+  }
+
+  .banar_overly {
+
+    padding: 90px 0 0;
+
+  }
+
+  .banar_text_item h1 {
+    font-size: 35px;
+    line-height: 41px;
+  }
+
+  .banar_button_part {
+    text-align: center;
+  }
+
+  .banar_images picture img {
+    margin-top: 20px;
+    max-height: 243px;
+  }
+
+  /* banar part end */
+
+
+  
+
+
+
+
+  /* contact part start  */
+
+
+  #form1>input:first-child {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  #form1>input:nth-child(2) {
+    width: 100%;
+  }
+
+  .input_form_part {
+    margin-top: 20px;
+  }
+  
+  #form1 textarea {
+    color: #fff;
+  }
+
+  /* contact part end */
+
+  /* video part  */
+  .video_part h2 {
+
+    font-size: 18px;
+
+  }
+
+  /* video part  */
+
+  /* fortfolio part start */
+  .person_part {
+    margin-bottom: 15px;
+  }
+
+  .offset_part {
+    margin-left: 0 !important;
+  }
+
+  /* fortfolio part  end*/
+  /* footer part start  */
+  .footer_addtress_item h5 {
+    padding-right: 116px;
+  }
+
+  .footer-ren {
+    margin-top: 25px;
+  }
+
+
+  .footer_tex_part {
+    text-align: center;
+
+  }
+
+  .footer_tex_part p {
+    padding: 20px 0px 20px 0;
+
+  }
+
+  .footer_item_icon {
+    text-align: center;
+  }
+
+  .footer_addtress_item h5 {
+    padding-right: 0px;
+    margin-bottom: 10px;
+  }
+
+  .adddre {
+    margin-top: 20px;
+    color: red !important;
+  }
+
+  .quick {
+    color: red !important;
+  }
+
+
+
+  /* footer part end */
+
+
+
+
+
+  /* pricing part start  */
+  #pricing_part {
+    padding: 30px 40px;
+  }
+
+
+  .pricing_card h3 {
+
+    padding: 10px 0;
+  }
+
+  .pricing_card h2 {
+    margin-bottom: 6px;
+  }
+
+  .pricing_card p {
+    padding-bottom: 0px;
+
+  }
+
+  .pricing_btn button {
+    margin-top: 10px;
+    margin-right: 0px;
+  }
+
+  .pricing_padd {
+    padding-bottom: 10px;
+  }
+
+
+
+  /* =================================== */
+
+  .flex-shrink {
+    width: 100%;
+    max-width: 100%;
+    margin-left: 32px;
+  }
+
+
+
+
+
+
+  /* anitmation  */
+  .bubble_animaton {
+    display: none;
+
+  }
+
+  /* anitmation  */
+
+
+
+
+
+
+
+
+
+}
+
+
+
+/* pricing part end */
+
+/* end  */
